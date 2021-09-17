@@ -5,7 +5,7 @@ li {
 }
 .imgclass {
     /* background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./bg2.jpg); */
-    background-image: url(./bgsized.jpg);
+    background-image: url(img/bg.jpg);
     background-size: cover;
     margin: 0px;
     width: 100%;
