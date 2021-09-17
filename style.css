@@ -1,5 +1,23 @@
 li {
     display: inline-block;
-    padding-right: 35px;
+    padding-left: 164px;
+    
+}
+.imgclass {
+    /* background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./bg2.jpg); */
+    background-image: url(./bgsized.jpg);
+    background-size: cover;
+    margin: 0px;
+    width: 100%;
+}
+.row {
+    padding-left: 156px;
+    margin-right: 0px;
+}
+.card-body{
+    padding: 0.25rem;
+    padding-left: 82px;
+}
+.card-title {
 
 }
